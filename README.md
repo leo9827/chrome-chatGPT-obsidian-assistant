@@ -1,0 +1,1 @@
+# chrome-chatGPT-obsidian-assistant
